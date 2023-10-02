@@ -1,3 +1,3 @@
 # testjira
 jira test
-test commit 1
+test commit 1,2
